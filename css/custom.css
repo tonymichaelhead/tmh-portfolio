@@ -1,1 +1,8 @@
 /* your styles go here */
+.skills-list {
+    position: relative;
+    list-style-type: none;
+    text-align: center;
+    text-transform: uppercase;
+    right: 26px;
+  }
