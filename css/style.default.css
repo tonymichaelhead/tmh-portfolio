@@ -768,8 +768,11 @@ FOOTER
 #footer p.social a.facebook {
   background-color: #4460ae;
 }
-#footer p.social a.gplus {
-  background-color: #c21f25;
+#footer p.social a.linkedin {
+  background-color: #507ff7;
+}
+#footer p.social a.github {
+  background-color: #6d6d6d;
 }
 #footer p.social a.instagram {
   background-color: #cd4378;
