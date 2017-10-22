@@ -14,6 +14,12 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(express.static(path.join(__dirname, '/../client')));
 
+app.get('/', function(req, res) {
+    
+        // 
+        res.render('index.js');
+    });
+
 app.listen(3000, function () {
     console.log(`Listening on port ${port}`);
 })
