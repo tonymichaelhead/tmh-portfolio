@@ -5,7 +5,7 @@ const http = require('http');
 const bodyParser = require('body-parser');
 
 // Server setup
-const port = process.env.port || 3000;
+const port = process.env.PORT || 3000;
 app.set('port', port);
 
 // Middleware
