@@ -15,7 +15,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, '/../client')));
 
 app.get('/', function(req, res) {
-    
+
         // 
         res.render('../client/index.js');
     });
