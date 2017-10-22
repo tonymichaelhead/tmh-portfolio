@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tonymichaelhead/tmh-portfolio/issues"
   },
-  "homepage": "https://github.com/tonymichaelhead/tmh-portfolio#readme"
+  "homepage": "https://github.com/tonymichaelhead/tmh-portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
 }
