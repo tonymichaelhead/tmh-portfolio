@@ -17,7 +17,7 @@ app.use(express.static(path.join(__dirname, '/../client')));
 app.get('/', function(req, res) {
     
         // 
-        res.render('index.js');
+        res.render('../client/index.js');
     });
 
 app.listen(3000, function () {
