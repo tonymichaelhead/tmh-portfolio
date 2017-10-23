@@ -10,3 +10,18 @@
 #boom-boom-cats {
     font-size: 23px;
 }
+
+.famous-quote {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.quote-author {
+    color: #ffcb8f;
+    font-weight: 300;
+}
+
+#famous-quote-icon {
+    display: inline-block;
+    color: #ffcb8f;
+}
