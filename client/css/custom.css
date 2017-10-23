@@ -25,3 +25,8 @@
     display: inline-block;
     color: #ffcb8f;
 }
+
+.cover-img {
+    width: 300px; 
+    height: 212px;
+}
