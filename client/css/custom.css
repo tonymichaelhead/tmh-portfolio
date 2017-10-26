@@ -31,6 +31,11 @@
     height: 212px;
 }
 
-h1{
+h1 {
     font-family: 'Rock Salt', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Rock Salt', cursive;
+    font-size: 20px;
 }
