@@ -173,7 +173,7 @@ INTRO
 #intro .item {
   height: 100%;
   /* original: background: url('../img/home.jpg') center center no-repeat; */
-  background: url('../img/space.png') center center no-repeat;
+  background: url('../img/la_sunrise.jpg') center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
